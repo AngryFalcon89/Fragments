@@ -2,7 +2,6 @@
 ![preview](https://github.com/AngryFalcon89/Fragments/assets/91687355/b1f1c94e-43c3-4ed0-89b2-9579cb14a168)
 
 ## Creating Fragments
----
 ### Step 1: Create a Fragment Class
 Create a new Kotlin class that extends the Fragment class. This class will represent your fragment.<br> A new Fragment can be created simply by right-clicking and creating new fragment option in Android Studio 
 ```kotlin
@@ -42,9 +41,9 @@ return binding.root
 
 ### Step 4: Implement Fragment Logic
 Implement any logic, UI interactions, or data handling within the fragment as needed.
----
+
 ## Using Fragments in an Activity
----
+
 ### Step 1: Add FrameLayout in activity main XML 
 
 ```xml
