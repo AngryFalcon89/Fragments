@@ -39,7 +39,7 @@ binding = FragmentBlankBinding.inflate(inflater, container, false)
 return binding.root
 ```
 
-Step 5: Implement Fragment Logic
+### Step 4: Implement Fragment Logic
 Implement any logic, UI interactions, or data handling within the fragment as needed.
 
 ### Using Fragments in an Activity
@@ -82,7 +82,7 @@ Implement any logic, UI interactions, or data handling within the fragment as ne
 
 </LinearLayout>
 ```
-Step 2: Replace Fragments in Activity
+### Step 2: Replace Fragments in Activity
 Inside the activity's onCreate method, use a FragmentManager to replace fragments within a container view.
 
 ```kotlin
