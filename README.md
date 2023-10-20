@@ -27,7 +27,7 @@ class BlankFragment : Fragment() {
 ### Step 2: Initialize Fragment Binding
 Initialize a fragment binding object to access the views within the fragment.(fragment binding cannot be initialized by lazy cuz it is required to be inflated inside onCreateView() fun of fragment
 
-```kotlin
+```java
 private lateinit var binding: FragmentBlankBinding
 ```
 
